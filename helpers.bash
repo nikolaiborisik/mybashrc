@@ -107,4 +107,5 @@ pushbash(){
     git commit -m 'Update'
     git push
     echo ".mybash was pushed gl"
+    cd $current_dir
 }
