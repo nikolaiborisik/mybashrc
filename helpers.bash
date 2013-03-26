@@ -103,7 +103,7 @@ pushbash(){
     current_dir=`pwd`
     cd ~/.mybash
     cp ~/.bash_profile ~/.mybash/.bash_profile
-    git add *
+    git add -A
     git commit -m 'Update'
     git push
     echo ".mybash was pushed gl"
