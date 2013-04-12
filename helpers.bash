@@ -109,3 +109,8 @@ pushbash(){
     echo ".mybash was pushed gl"
     cd $current_dir
 }
+
+mdd(){
+    mkdir $1
+    cd $1
+}
