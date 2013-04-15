@@ -109,3 +109,8 @@ pushbash(){
     echo ".mybash was pushed gl"
     cd $current_dir
 }
+
+ws(){
+    /Applications/WebStorm.app/Contents/MacOS/webide --line $2 $1
+    open -a /Applications/WebStorm.app/
+}

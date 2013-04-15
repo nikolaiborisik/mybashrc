@@ -6,6 +6,7 @@ alias e="vim"
 alias ecb="vim ~/.mybash/.bashrc"
 alias ecp="vim .bash_profile"
 alias eca="vim ~/.mybash/alias.bash"
+alias eb="vim ~/.mybash/"
 
 alias sserv="python -m SimpleHTTPServer"
 
