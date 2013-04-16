@@ -120,6 +120,3 @@ mdd(){
     cd $1
 }
 
-goo(){
-    b http://google.com?q=$1
-}
