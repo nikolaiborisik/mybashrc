@@ -114,3 +114,7 @@ mdd(){
     mkdir $1
     cd $1
 }
+
+goo(){
+    b http://google.com?q=$1
+}
