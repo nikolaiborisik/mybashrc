@@ -45,3 +45,5 @@ alias h='history'
 #Directory
 alias   md='mkdir -p'
 alias   rd='rmdir'
+
+alias py='python'
