@@ -26,10 +26,10 @@ alias stgm="sencha generate model"
 
 #list directory contents
 alias sl=ls
-alias la='ls -AF'       # Compact view, show hidden
-alias ls="ls -Ga"
-alias ll='ls -al'
-alias l='ls -a'
+alias la='ls -AFv'       # Compact view, show hidden
+alias ls="ls -Gav"
+alias ll='ls -alv'
+alias l='ls -av'
 alias l1='ls -1'
 
 alias ..='cd ..'         # Go up one directory
